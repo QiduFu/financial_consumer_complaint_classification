@@ -14,7 +14,7 @@ Implemented various text preprocessing techniques including:
 - Removal of duplicates, NANs, and empty rows.
 - Text normalization (lowercasing, removing punctuation, special characters).
 - Lemmatization and stemming using NLTK.
-- Feature engineering through mathematical transformations and PCA.
+- Feature engineering through removing long/short words, and others. For more, see the [presentation](presentation.pdf) and [code](project_code.ipynb)
 
 ### Modeling
 Explored several machine learning algorithms for both unsupervised and supervised learning:
